@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+.streamlit/
+venv/
+.venv/
+data/
+diagnosis_report.pdf
+image_diagnosis_report.pdf
